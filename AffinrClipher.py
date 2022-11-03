@@ -136,6 +136,8 @@ def main():
             print(encryption());
             #Prints out the returned value from encryption function.
         elif choice == '2':
+            
+            
             print(decryption());
         elif choice == 'Exit':
             break;
